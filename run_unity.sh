@@ -4,7 +4,7 @@ xhost +local:
 
 # Run the contianer
 docker run -it \
-    --entrypoint /bin/bash \
+    --entrypoint /entrypoint_unity.sh \
     --privileged \
     --pid host \
     --net host \
