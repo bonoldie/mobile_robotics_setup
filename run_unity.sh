@@ -16,6 +16,7 @@ docker run -it \
     -v /tmp/.X11-unix:/tmp/.X11-unix:ro \
     -v /opt/unity:/opt/unity \
     -v /opt/unityhub:/opt/unityhub \
+    -v ./.config/unityhub:/root/.config/unityhub \
     -v ./Turtlebot3UnityROS2:/root/ws/Turtlebot3UnityROS2 \
     mobile-robotics 
 #    -p 12400-12431:12400-12431/udp \
