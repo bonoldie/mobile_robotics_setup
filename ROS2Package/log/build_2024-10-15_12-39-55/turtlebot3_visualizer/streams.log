@@ -1,0 +1,32 @@
+[1.422s] Invoking command in '/root/ws/ROS2Package/build/turtlebot3_visualizer': PYTHONPATH=/root/ws/ROS2Package/build/turtlebot3_visualizer/prefix_override:/root/ws/ROS2Package/install/turtlebot3_visualizer/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --uninstall --editable --build-directory /root/ws/ROS2Package/build/turtlebot3_visualizer/build
+[1.620s] running develop
+[1.716s] Removing /root/ws/ROS2Package/install/turtlebot3_visualizer/lib/python3.8/site-packages/turtlebot3-visualizer.egg-link (link to .)
+[1.752s] Invoked command in '/root/ws/ROS2Package/build/turtlebot3_visualizer' returned '0': PYTHONPATH=/root/ws/ROS2Package/build/turtlebot3_visualizer/prefix_override:/root/ws/ROS2Package/install/turtlebot3_visualizer/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --uninstall --editable --build-directory /root/ws/ROS2Package/build/turtlebot3_visualizer/build
+[1.755s] Invoking command in '/root/ws/ROS2Package/turtlebot3_visualizer': PYTHONPATH=/root/ws/ROS2Package/build/turtlebot3_visualizer/prefix_override:/root/ws/ROS2Package/install/turtlebot3_visualizer/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../build/turtlebot3_visualizer build --build-base /root/ws/ROS2Package/build/turtlebot3_visualizer/build install --record /root/ws/ROS2Package/build/turtlebot3_visualizer/install.log --install-scripts $base/lib/turtlebot3_visualizer --single-version-externally-managed install_data --force
+[2.002s] running egg_info
+[2.003s] writing ../build/turtlebot3_visualizer/turtlebot3_visualizer.egg-info/PKG-INFO
+[2.003s] writing dependency_links to ../build/turtlebot3_visualizer/turtlebot3_visualizer.egg-info/dependency_links.txt
+[2.004s] writing entry points to ../build/turtlebot3_visualizer/turtlebot3_visualizer.egg-info/entry_points.txt
+[2.004s] writing requirements to ../build/turtlebot3_visualizer/turtlebot3_visualizer.egg-info/requires.txt
+[2.004s] writing top-level names to ../build/turtlebot3_visualizer/turtlebot3_visualizer.egg-info/top_level.txt
+[2.053s] reading manifest file '../build/turtlebot3_visualizer/turtlebot3_visualizer.egg-info/SOURCES.txt'
+[2.054s] writing manifest file '../build/turtlebot3_visualizer/turtlebot3_visualizer.egg-info/SOURCES.txt'
+[2.055s] running build
+[2.055s] running build_py
+[2.055s] running install
+[2.057s] running install_lib
+[2.058s] creating /root/ws/ROS2Package/install/turtlebot3_visualizer/lib/python3.8/site-packages/turtlebot3_visualizer
+[2.058s] copying /root/ws/ROS2Package/build/turtlebot3_visualizer/build/lib/turtlebot3_visualizer/__init__.py -> /root/ws/ROS2Package/install/turtlebot3_visualizer/lib/python3.8/site-packages/turtlebot3_visualizer
+[2.058s] byte-compiling /root/ws/ROS2Package/install/turtlebot3_visualizer/lib/python3.8/site-packages/turtlebot3_visualizer/__init__.py to __init__.cpython-38.pyc
+[2.060s] running install_data
+[2.061s] copying resource/turtlebot3_visualizer -> /root/ws/ROS2Package/install/turtlebot3_visualizer/share/ament_index/resource_index/packages
+[2.061s] copying package.xml -> /root/ws/ROS2Package/install/turtlebot3_visualizer/share/turtlebot3_visualizer
+[2.061s] copying launch/turtlebot3_visualizer.launch.py -> /root/ws/ROS2Package/install/turtlebot3_visualizer/share/turtlebot3_visualizer/launch
+[2.061s] copying rviz/NAV2.rviz -> /root/ws/ROS2Package/install/turtlebot3_visualizer/share/turtlebot3_visualizer/rviz
+[2.062s] copying rviz/SLAM.rviz -> /root/ws/ROS2Package/install/turtlebot3_visualizer/share/turtlebot3_visualizer/rviz
+[2.062s] copying rviz/AMCL.rviz -> /root/ws/ROS2Package/install/turtlebot3_visualizer/share/turtlebot3_visualizer/rviz
+[2.063s] running install_egg_info
+[2.065s] Copying ../build/turtlebot3_visualizer/turtlebot3_visualizer.egg-info to /root/ws/ROS2Package/install/turtlebot3_visualizer/lib/python3.8/site-packages/turtlebot3_visualizer-0.0.0-py3.8.egg-info
+[2.066s] running install_scripts
+[2.083s] writing list of installed files to '/root/ws/ROS2Package/build/turtlebot3_visualizer/install.log'
+[2.107s] Invoked command in '/root/ws/ROS2Package/turtlebot3_visualizer' returned '0': PYTHONPATH=/root/ws/ROS2Package/build/turtlebot3_visualizer/prefix_override:/root/ws/ROS2Package/install/turtlebot3_visualizer/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../build/turtlebot3_visualizer build --build-base /root/ws/ROS2Package/build/turtlebot3_visualizer/build install --record /root/ws/ROS2Package/build/turtlebot3_visualizer/install.log --install-scripts $base/lib/turtlebot3_visualizer --single-version-externally-managed install_data --force

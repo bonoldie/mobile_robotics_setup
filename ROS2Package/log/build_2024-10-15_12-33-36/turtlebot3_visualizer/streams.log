@@ -1,0 +1,23 @@
+[1.212s] Invoking command in '/root/ws/ROS2Package/build/turtlebot3_visualizer': PYTHONPATH=/root/ws/ROS2Package/build/turtlebot3_visualizer/prefix_override:/root/ws/ROS2Package/install/turtlebot3_visualizer/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /root/ws/ROS2Package/build/turtlebot3_visualizer/build --no-deps symlink_data --force
+[1.432s] running develop
+[1.510s] running egg_info
+[1.510s] writing turtlebot3_visualizer.egg-info/PKG-INFO
+[1.511s] writing dependency_links to turtlebot3_visualizer.egg-info/dependency_links.txt
+[1.511s] writing entry points to turtlebot3_visualizer.egg-info/entry_points.txt
+[1.511s] writing requirements to turtlebot3_visualizer.egg-info/requires.txt
+[1.511s] writing top-level names to turtlebot3_visualizer.egg-info/top_level.txt
+[1.537s] reading manifest file 'turtlebot3_visualizer.egg-info/SOURCES.txt'
+[1.538s] writing manifest file 'turtlebot3_visualizer.egg-info/SOURCES.txt'
+[1.564s] running build_ext
+[1.564s] Creating /root/ws/ROS2Package/install/turtlebot3_visualizer/lib/python3.8/site-packages/site.py
+[1.566s] Creating /root/ws/ROS2Package/install/turtlebot3_visualizer/lib/python3.8/site-packages/turtlebot3-visualizer.egg-link (link to .)
+[1.567s] 
+[1.567s] Installed /root/ws/ROS2Package/build/turtlebot3_visualizer
+[1.567s] running symlink_data
+[1.567s] symbolically linking /root/ws/ROS2Package/build/turtlebot3_visualizer/resource/turtlebot3_visualizer -> /root/ws/ROS2Package/install/turtlebot3_visualizer/share/ament_index/resource_index/packages
+[1.567s] symbolically linking /root/ws/ROS2Package/build/turtlebot3_visualizer/package.xml -> /root/ws/ROS2Package/install/turtlebot3_visualizer/share/turtlebot3_visualizer
+[1.567s] symbolically linking /root/ws/ROS2Package/build/turtlebot3_visualizer/launch/turtlebot3_visualizer.launch.py -> /root/ws/ROS2Package/install/turtlebot3_visualizer/share/turtlebot3_visualizer/launch
+[1.568s] symbolically linking /root/ws/ROS2Package/build/turtlebot3_visualizer/rviz/NAV2.rviz -> /root/ws/ROS2Package/install/turtlebot3_visualizer/share/turtlebot3_visualizer/rviz
+[1.568s] symbolically linking /root/ws/ROS2Package/build/turtlebot3_visualizer/rviz/SLAM.rviz -> /root/ws/ROS2Package/install/turtlebot3_visualizer/share/turtlebot3_visualizer/rviz
+[1.568s] symbolically linking /root/ws/ROS2Package/build/turtlebot3_visualizer/rviz/AMCL.rviz -> /root/ws/ROS2Package/install/turtlebot3_visualizer/share/turtlebot3_visualizer/rviz
+[1.613s] Invoked command in '/root/ws/ROS2Package/build/turtlebot3_visualizer' returned '0': PYTHONPATH=/root/ws/ROS2Package/build/turtlebot3_visualizer/prefix_override:/root/ws/ROS2Package/install/turtlebot3_visualizer/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /root/ws/ROS2Package/build/turtlebot3_visualizer/build --no-deps symlink_data --force

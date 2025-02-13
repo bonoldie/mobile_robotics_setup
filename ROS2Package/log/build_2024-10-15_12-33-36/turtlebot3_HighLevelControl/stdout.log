@@ -1,0 +1,18 @@
+running develop
+running egg_info
+writing turtlebot3_HighLevelControl.egg-info/PKG-INFO
+writing dependency_links to turtlebot3_HighLevelControl.egg-info/dependency_links.txt
+writing entry points to turtlebot3_HighLevelControl.egg-info/entry_points.txt
+writing requirements to turtlebot3_HighLevelControl.egg-info/requires.txt
+writing top-level names to turtlebot3_HighLevelControl.egg-info/top_level.txt
+reading manifest file 'turtlebot3_HighLevelControl.egg-info/SOURCES.txt'
+writing manifest file 'turtlebot3_HighLevelControl.egg-info/SOURCES.txt'
+running build_ext
+Creating /root/ws/ROS2Package/install/turtlebot3_HighLevelControl/lib/python3.8/site-packages/site.py
+Creating /root/ws/ROS2Package/install/turtlebot3_HighLevelControl/lib/python3.8/site-packages/turtlebot3-HighLevelControl.egg-link (link to .)
+Installing turtlebot3_HighLevelControl script to /root/ws/ROS2Package/install/turtlebot3_HighLevelControl/lib/turtlebot3_HighLevelControl
+
+Installed /root/ws/ROS2Package/build/turtlebot3_HighLevelControl
+running symlink_data
+symbolically linking /root/ws/ROS2Package/build/turtlebot3_HighLevelControl/resource/turtlebot3_HighLevelControl -> /root/ws/ROS2Package/install/turtlebot3_HighLevelControl/share/ament_index/resource_index/packages
+symbolically linking /root/ws/ROS2Package/build/turtlebot3_HighLevelControl/package.xml -> /root/ws/ROS2Package/install/turtlebot3_HighLevelControl/share/turtlebot3_HighLevelControl

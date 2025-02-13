@@ -1,0 +1,20 @@
+[1.087s] Invoking command in '/root/ws/ROS2Package/turtlebot3_NavSLAM': PYTHONPATH=/root/ws/ROS2Package/build/turtlebot3_NavSLAM/prefix_override:/root/ws/ROS2Package/install/turtlebot3_NavSLAM/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../build/turtlebot3_NavSLAM build --build-base /root/ws/ROS2Package/build/turtlebot3_NavSLAM/build install --record /root/ws/ROS2Package/build/turtlebot3_NavSLAM/install.log --install-scripts $base/lib/turtlebot3_NavSLAM --single-version-externally-managed install_data
+[1.246s] running egg_info
+[1.247s] writing ../build/turtlebot3_NavSLAM/turtlebot3_NavSLAM.egg-info/PKG-INFO
+[1.247s] writing dependency_links to ../build/turtlebot3_NavSLAM/turtlebot3_NavSLAM.egg-info/dependency_links.txt
+[1.247s] writing entry points to ../build/turtlebot3_NavSLAM/turtlebot3_NavSLAM.egg-info/entry_points.txt
+[1.247s] writing requirements to ../build/turtlebot3_NavSLAM/turtlebot3_NavSLAM.egg-info/requires.txt
+[1.247s] writing top-level names to ../build/turtlebot3_NavSLAM/turtlebot3_NavSLAM.egg-info/top_level.txt
+[1.272s] reading manifest file '../build/turtlebot3_NavSLAM/turtlebot3_NavSLAM.egg-info/SOURCES.txt'
+[1.273s] writing manifest file '../build/turtlebot3_NavSLAM/turtlebot3_NavSLAM.egg-info/SOURCES.txt'
+[1.273s] running build
+[1.273s] running build_py
+[1.273s] running install
+[1.274s] running install_lib
+[1.275s] running install_data
+[1.275s] running install_egg_info
+[1.277s] removing '/root/ws/ROS2Package/install/turtlebot3_NavSLAM/lib/python3.8/site-packages/turtlebot3_NavSLAM-0.0.0-py3.8.egg-info' (and everything under it)
+[1.277s] Copying ../build/turtlebot3_NavSLAM/turtlebot3_NavSLAM.egg-info to /root/ws/ROS2Package/install/turtlebot3_NavSLAM/lib/python3.8/site-packages/turtlebot3_NavSLAM-0.0.0-py3.8.egg-info
+[1.278s] running install_scripts
+[1.293s] writing list of installed files to '/root/ws/ROS2Package/build/turtlebot3_NavSLAM/install.log'
+[1.317s] Invoked command in '/root/ws/ROS2Package/turtlebot3_NavSLAM' returned '0': PYTHONPATH=/root/ws/ROS2Package/build/turtlebot3_NavSLAM/prefix_override:/root/ws/ROS2Package/install/turtlebot3_NavSLAM/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../build/turtlebot3_NavSLAM build --build-base /root/ws/ROS2Package/build/turtlebot3_NavSLAM/build install --record /root/ws/ROS2Package/build/turtlebot3_NavSLAM/install.log --install-scripts $base/lib/turtlebot3_NavSLAM --single-version-externally-managed install_data

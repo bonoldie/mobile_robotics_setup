@@ -1,0 +1,20 @@
+[1.156s] Invoking command in '/root/ws/ROS2Package/build/turtlebot3_follow': PYTHONPATH=/root/ws/ROS2Package/build/turtlebot3_follow/prefix_override:/root/ws/ROS2Package/install/turtlebot3_follow/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /root/ws/ROS2Package/build/turtlebot3_follow/build --no-deps symlink_data --force
+[1.427s] running develop
+[1.553s] running egg_info
+[1.554s] writing turtlebot3_follow.egg-info/PKG-INFO
+[1.554s] writing dependency_links to turtlebot3_follow.egg-info/dependency_links.txt
+[1.554s] writing entry points to turtlebot3_follow.egg-info/entry_points.txt
+[1.554s] writing requirements to turtlebot3_follow.egg-info/requires.txt
+[1.554s] writing top-level names to turtlebot3_follow.egg-info/top_level.txt
+[1.598s] reading manifest file 'turtlebot3_follow.egg-info/SOURCES.txt'
+[1.600s] writing manifest file 'turtlebot3_follow.egg-info/SOURCES.txt'
+[1.646s] running build_ext
+[1.646s] Creating /root/ws/ROS2Package/install/turtlebot3_follow/lib/python3.8/site-packages/site.py
+[1.649s] Creating /root/ws/ROS2Package/install/turtlebot3_follow/lib/python3.8/site-packages/turtlebot3-follow.egg-link (link to .)
+[1.650s] Installing turtlebot3_follow script to /root/ws/ROS2Package/install/turtlebot3_follow/lib/turtlebot3_follow
+[1.650s] 
+[1.650s] Installed /root/ws/ROS2Package/build/turtlebot3_follow
+[1.650s] running symlink_data
+[1.650s] symbolically linking /root/ws/ROS2Package/build/turtlebot3_follow/resource/turtlebot3_follow -> /root/ws/ROS2Package/install/turtlebot3_follow/share/ament_index/resource_index/packages
+[1.651s] symbolically linking /root/ws/ROS2Package/build/turtlebot3_follow/package.xml -> /root/ws/ROS2Package/install/turtlebot3_follow/share/turtlebot3_follow
+[1.676s] Invoked command in '/root/ws/ROS2Package/build/turtlebot3_follow' returned '0': PYTHONPATH=/root/ws/ROS2Package/build/turtlebot3_follow/prefix_override:/root/ws/ROS2Package/install/turtlebot3_follow/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /root/ws/ROS2Package/build/turtlebot3_follow/build --no-deps symlink_data --force

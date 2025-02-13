@@ -1,0 +1,4 @@
+Invoking command in '/root/ws/ROS2Package/build/turtlebot3_description': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /root/ws/ROS2Package/build/turtlebot3_description -- -j8 -l8
+Invoked command in '/root/ws/ROS2Package/build/turtlebot3_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /root/ws/ROS2Package/build/turtlebot3_description -- -j8 -l8
+Invoking command in '/root/ws/ROS2Package/build/turtlebot3_description': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /root/ws/ROS2Package/build/turtlebot3_description
+Invoked command in '/root/ws/ROS2Package/build/turtlebot3_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /root/ws/ROS2Package/build/turtlebot3_description

@@ -1,0 +1,27 @@
+[1.179s] Invoking command in '/root/ws/ROS2Package/build/turtlebot3_NavSLAM': PYTHONPATH=/root/ws/ROS2Package/build/turtlebot3_NavSLAM/prefix_override:/root/ws/ROS2Package/install/turtlebot3_NavSLAM/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /root/ws/ROS2Package/build/turtlebot3_NavSLAM/build --no-deps symlink_data --force
+[1.403s] running develop
+[1.529s] running egg_info
+[1.529s] writing turtlebot3_NavSLAM.egg-info/PKG-INFO
+[1.529s] writing dependency_links to turtlebot3_NavSLAM.egg-info/dependency_links.txt
+[1.529s] writing entry points to turtlebot3_NavSLAM.egg-info/entry_points.txt
+[1.530s] writing requirements to turtlebot3_NavSLAM.egg-info/requires.txt
+[1.530s] writing top-level names to turtlebot3_NavSLAM.egg-info/top_level.txt
+[1.573s] reading manifest file 'turtlebot3_NavSLAM.egg-info/SOURCES.txt'
+[1.574s] writing manifest file 'turtlebot3_NavSLAM.egg-info/SOURCES.txt'
+[1.620s] running build_ext
+[1.620s] Creating /root/ws/ROS2Package/install/turtlebot3_NavSLAM/lib/python3.8/site-packages/site.py
+[1.623s] Creating /root/ws/ROS2Package/install/turtlebot3_NavSLAM/lib/python3.8/site-packages/turtlebot3-NavSLAM.egg-link (link to .)
+[1.624s] 
+[1.624s] Installed /root/ws/ROS2Package/build/turtlebot3_NavSLAM
+[1.624s] running symlink_data
+[1.624s] symbolically linking /root/ws/ROS2Package/build/turtlebot3_NavSLAM/resource/turtlebot3_NavSLAM -> /root/ws/ROS2Package/install/turtlebot3_NavSLAM/share/ament_index/resource_index/packages
+[1.625s] symbolically linking /root/ws/ROS2Package/build/turtlebot3_NavSLAM/package.xml -> /root/ws/ROS2Package/install/turtlebot3_NavSLAM/share/turtlebot3_NavSLAM
+[1.625s] symbolically linking /root/ws/ROS2Package/build/turtlebot3_NavSLAM/launch/turtlebot3_SLAM.launch.py -> /root/ws/ROS2Package/install/turtlebot3_NavSLAM/share/turtlebot3_NavSLAM/launch
+[1.625s] symbolically linking /root/ws/ROS2Package/build/turtlebot3_NavSLAM/launch/turtlebot3_AMCL.launch.py -> /root/ws/ROS2Package/install/turtlebot3_NavSLAM/share/turtlebot3_NavSLAM/launch
+[1.625s] symbolically linking /root/ws/ROS2Package/build/turtlebot3_NavSLAM/launch/turtlebot3_NAV2.launch.py -> /root/ws/ROS2Package/install/turtlebot3_NavSLAM/share/turtlebot3_NavSLAM/launch
+[1.625s] symbolically linking /root/ws/ROS2Package/build/turtlebot3_NavSLAM/config/bt_config.xml -> /root/ws/ROS2Package/install/turtlebot3_NavSLAM/share/turtlebot3_NavSLAM/config
+[1.625s] symbolically linking /root/ws/ROS2Package/build/turtlebot3_NavSLAM/config/SLAM_param.yaml -> /root/ws/ROS2Package/install/turtlebot3_NavSLAM/share/turtlebot3_NavSLAM/config
+[1.625s] symbolically linking /root/ws/ROS2Package/build/turtlebot3_NavSLAM/config/NAV2_param.yaml -> /root/ws/ROS2Package/install/turtlebot3_NavSLAM/share/turtlebot3_NavSLAM/config
+[1.625s] symbolically linking /root/ws/ROS2Package/build/turtlebot3_NavSLAM/map/test.pgm -> /root/ws/ROS2Package/install/turtlebot3_NavSLAM/share/turtlebot3_NavSLAM/map
+[1.625s] symbolically linking /root/ws/ROS2Package/build/turtlebot3_NavSLAM/map/test.yaml -> /root/ws/ROS2Package/install/turtlebot3_NavSLAM/share/turtlebot3_NavSLAM/map
+[1.664s] Invoked command in '/root/ws/ROS2Package/build/turtlebot3_NavSLAM' returned '0': PYTHONPATH=/root/ws/ROS2Package/build/turtlebot3_NavSLAM/prefix_override:/root/ws/ROS2Package/install/turtlebot3_NavSLAM/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /root/ws/ROS2Package/build/turtlebot3_NavSLAM/build --no-deps symlink_data --force

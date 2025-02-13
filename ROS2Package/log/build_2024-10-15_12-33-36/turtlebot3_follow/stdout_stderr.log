@@ -1,0 +1,18 @@
+running develop
+running egg_info
+writing turtlebot3_follow.egg-info/PKG-INFO
+writing dependency_links to turtlebot3_follow.egg-info/dependency_links.txt
+writing entry points to turtlebot3_follow.egg-info/entry_points.txt
+writing requirements to turtlebot3_follow.egg-info/requires.txt
+writing top-level names to turtlebot3_follow.egg-info/top_level.txt
+reading manifest file 'turtlebot3_follow.egg-info/SOURCES.txt'
+writing manifest file 'turtlebot3_follow.egg-info/SOURCES.txt'
+running build_ext
+Creating /root/ws/ROS2Package/install/turtlebot3_follow/lib/python3.8/site-packages/site.py
+Creating /root/ws/ROS2Package/install/turtlebot3_follow/lib/python3.8/site-packages/turtlebot3-follow.egg-link (link to .)
+Installing turtlebot3_follow script to /root/ws/ROS2Package/install/turtlebot3_follow/lib/turtlebot3_follow
+
+Installed /root/ws/ROS2Package/build/turtlebot3_follow
+running symlink_data
+symbolically linking /root/ws/ROS2Package/build/turtlebot3_follow/resource/turtlebot3_follow -> /root/ws/ROS2Package/install/turtlebot3_follow/share/ament_index/resource_index/packages
+symbolically linking /root/ws/ROS2Package/build/turtlebot3_follow/package.xml -> /root/ws/ROS2Package/install/turtlebot3_follow/share/turtlebot3_follow

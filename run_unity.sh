@@ -18,6 +18,8 @@ docker run -it \
     -v /opt/unityhub:/opt/unityhub \
     -v ./.config/unityhub:/root/.config/unityhub \
     -v ./Turtlebot3UnityROS2:/root/ws/Turtlebot3UnityROS2 \
+    -v ./DEFAULT_FASTRTPS_PROFILES.xml:/root/ws/DEFAULT_FASTRTPS_PROFILES.xml \
+    -p 5678:5678/tcp \
     mobile-robotics 
-#    -p 12400-12431:12400-12431/udp \
+#   -p 12400-12431:12400-12431/udp \
 

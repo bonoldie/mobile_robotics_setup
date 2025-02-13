@@ -1,0 +1,25 @@
+running develop
+running egg_info
+writing turtlebot3_NavSLAM.egg-info/PKG-INFO
+writing dependency_links to turtlebot3_NavSLAM.egg-info/dependency_links.txt
+writing entry points to turtlebot3_NavSLAM.egg-info/entry_points.txt
+writing requirements to turtlebot3_NavSLAM.egg-info/requires.txt
+writing top-level names to turtlebot3_NavSLAM.egg-info/top_level.txt
+reading manifest file 'turtlebot3_NavSLAM.egg-info/SOURCES.txt'
+writing manifest file 'turtlebot3_NavSLAM.egg-info/SOURCES.txt'
+running build_ext
+Creating /root/ws/ROS2Package/install/turtlebot3_NavSLAM/lib/python3.8/site-packages/site.py
+Creating /root/ws/ROS2Package/install/turtlebot3_NavSLAM/lib/python3.8/site-packages/turtlebot3-NavSLAM.egg-link (link to .)
+
+Installed /root/ws/ROS2Package/build/turtlebot3_NavSLAM
+running symlink_data
+symbolically linking /root/ws/ROS2Package/build/turtlebot3_NavSLAM/resource/turtlebot3_NavSLAM -> /root/ws/ROS2Package/install/turtlebot3_NavSLAM/share/ament_index/resource_index/packages
+symbolically linking /root/ws/ROS2Package/build/turtlebot3_NavSLAM/package.xml -> /root/ws/ROS2Package/install/turtlebot3_NavSLAM/share/turtlebot3_NavSLAM
+symbolically linking /root/ws/ROS2Package/build/turtlebot3_NavSLAM/launch/turtlebot3_SLAM.launch.py -> /root/ws/ROS2Package/install/turtlebot3_NavSLAM/share/turtlebot3_NavSLAM/launch
+symbolically linking /root/ws/ROS2Package/build/turtlebot3_NavSLAM/launch/turtlebot3_AMCL.launch.py -> /root/ws/ROS2Package/install/turtlebot3_NavSLAM/share/turtlebot3_NavSLAM/launch
+symbolically linking /root/ws/ROS2Package/build/turtlebot3_NavSLAM/launch/turtlebot3_NAV2.launch.py -> /root/ws/ROS2Package/install/turtlebot3_NavSLAM/share/turtlebot3_NavSLAM/launch
+symbolically linking /root/ws/ROS2Package/build/turtlebot3_NavSLAM/config/bt_config.xml -> /root/ws/ROS2Package/install/turtlebot3_NavSLAM/share/turtlebot3_NavSLAM/config
+symbolically linking /root/ws/ROS2Package/build/turtlebot3_NavSLAM/config/SLAM_param.yaml -> /root/ws/ROS2Package/install/turtlebot3_NavSLAM/share/turtlebot3_NavSLAM/config
+symbolically linking /root/ws/ROS2Package/build/turtlebot3_NavSLAM/config/NAV2_param.yaml -> /root/ws/ROS2Package/install/turtlebot3_NavSLAM/share/turtlebot3_NavSLAM/config
+symbolically linking /root/ws/ROS2Package/build/turtlebot3_NavSLAM/map/test.pgm -> /root/ws/ROS2Package/install/turtlebot3_NavSLAM/share/turtlebot3_NavSLAM/map
+symbolically linking /root/ws/ROS2Package/build/turtlebot3_NavSLAM/map/test.yaml -> /root/ws/ROS2Package/install/turtlebot3_NavSLAM/share/turtlebot3_NavSLAM/map

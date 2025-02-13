@@ -1,0 +1,19 @@
+[1.168s] Invoking command in '/root/ws/ROS2Package/build/turtlebot3_A_star': PYTHONPATH=/root/ws/ROS2Package/build/turtlebot3_A_star/prefix_override:/root/ws/ROS2Package/install/turtlebot3_A_star/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /root/ws/ROS2Package/build/turtlebot3_A_star/build --no-deps symlink_data --force
+[1.358s] running develop
+[1.486s] running egg_info
+[1.486s] writing turtlebot3_A_star.egg-info/PKG-INFO
+[1.486s] writing dependency_links to turtlebot3_A_star.egg-info/dependency_links.txt
+[1.486s] writing entry points to turtlebot3_A_star.egg-info/entry_points.txt
+[1.486s] writing requirements to turtlebot3_A_star.egg-info/requires.txt
+[1.487s] writing top-level names to turtlebot3_A_star.egg-info/top_level.txt
+[1.531s] reading manifest file 'turtlebot3_A_star.egg-info/SOURCES.txt'
+[1.532s] writing manifest file 'turtlebot3_A_star.egg-info/SOURCES.txt'
+[1.576s] running build_ext
+[1.577s] Creating /root/ws/ROS2Package/install/turtlebot3_A_star/lib/python3.8/site-packages/site.py
+[1.579s] Creating /root/ws/ROS2Package/install/turtlebot3_A_star/lib/python3.8/site-packages/turtlebot3-A-star.egg-link (link to .)
+[1.580s] 
+[1.580s] Installed /root/ws/ROS2Package/build/turtlebot3_A_star
+[1.580s] running symlink_data
+[1.580s] symbolically linking /root/ws/ROS2Package/build/turtlebot3_A_star/resource/turtlebot3_A_star -> /root/ws/ROS2Package/install/turtlebot3_A_star/share/ament_index/resource_index/packages
+[1.580s] symbolically linking /root/ws/ROS2Package/build/turtlebot3_A_star/package.xml -> /root/ws/ROS2Package/install/turtlebot3_A_star/share/turtlebot3_A_star
+[1.622s] Invoked command in '/root/ws/ROS2Package/build/turtlebot3_A_star' returned '0': PYTHONPATH=/root/ws/ROS2Package/build/turtlebot3_A_star/prefix_override:/root/ws/ROS2Package/install/turtlebot3_A_star/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /root/ws/ROS2Package/build/turtlebot3_A_star/build --no-deps symlink_data --force

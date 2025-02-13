@@ -1,0 +1,32 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/ubuntu/colcon_ws/build/turtlebot3_visualizer",
+        "/home/ubuntu/colcon_ws/install/turtlebot3_visualizer/lib/python3.8/site-packages",
+        "/home/ubuntu/colcon_ws/build/turtlebot3_follow",
+        "/home/ubuntu/colcon_ws/install/turtlebot3_follow/lib/python3.8/site-packages",
+        "/home/ubuntu/colcon_ws/build/turtlebot3_NavSLAM",
+        "/home/ubuntu/colcon_ws/install/turtlebot3_NavSLAM/lib/python3.8/site-packages",
+        "/home/ubuntu/colcon_ws/build/turtlebot3_HighLevelControl",
+        "/home/ubuntu/colcon_ws/install/turtlebot3_HighLevelControl/lib/python3.8/site-packages",
+        "/home/ubuntu/colcon_ws/build/turtlebot3_A_star",
+        "/home/ubuntu/colcon_ws/install/turtlebot3_A_star/lib/python3.8/site-packages",
+        "/home/ubuntu/colcon_ws/build/prova_dio_pitone",
+        "/home/ubuntu/colcon_ws/install/prova_dio_pitone/lib/python3.8/site-packages",
+        "/opt/ros/foxy/lib/python3.8/site-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/ubuntu/colcon_ws/build/turtlebot3_visualizer",
+        "/home/ubuntu/colcon_ws/install/turtlebot3_visualizer/lib/python3.8/site-packages",
+        "/home/ubuntu/colcon_ws/build/turtlebot3_follow",
+        "/home/ubuntu/colcon_ws/install/turtlebot3_follow/lib/python3.8/site-packages",
+        "/home/ubuntu/colcon_ws/build/turtlebot3_NavSLAM",
+        "/home/ubuntu/colcon_ws/install/turtlebot3_NavSLAM/lib/python3.8/site-packages",
+        "/home/ubuntu/colcon_ws/build/turtlebot3_HighLevelControl",
+        "/home/ubuntu/colcon_ws/install/turtlebot3_HighLevelControl/lib/python3.8/site-packages",
+        "/home/ubuntu/colcon_ws/build/turtlebot3_A_star",
+        "/home/ubuntu/colcon_ws/install/turtlebot3_A_star/lib/python3.8/site-packages",
+        "/home/ubuntu/colcon_ws/build/prova_dio_pitone",
+        "/home/ubuntu/colcon_ws/install/prova_dio_pitone/lib/python3.8/site-packages",
+        "/opt/ros/foxy/lib/python3.8/site-packages"
+    ]
+}

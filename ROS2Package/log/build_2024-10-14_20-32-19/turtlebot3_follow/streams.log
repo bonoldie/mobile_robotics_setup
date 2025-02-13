@@ -1,0 +1,37 @@
+[1.189s] Invoking command in '/root/ws/ROS2Package/turtlebot3_follow': PYTHONPATH=/root/ws/ROS2Package/build/turtlebot3_follow/prefix_override:/root/ws/ROS2Package/install/turtlebot3_follow/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../build/turtlebot3_follow build --build-base /root/ws/ROS2Package/build/turtlebot3_follow/build install --record /root/ws/ROS2Package/build/turtlebot3_follow/install.log --install-scripts $base/lib/turtlebot3_follow --single-version-externally-managed install_data
+[1.394s] running egg_info
+[1.395s] creating ../build/turtlebot3_follow/turtlebot3_follow.egg-info
+[1.395s] writing ../build/turtlebot3_follow/turtlebot3_follow.egg-info/PKG-INFO
+[1.395s] writing dependency_links to ../build/turtlebot3_follow/turtlebot3_follow.egg-info/dependency_links.txt
+[1.395s] writing entry points to ../build/turtlebot3_follow/turtlebot3_follow.egg-info/entry_points.txt
+[1.395s] writing requirements to ../build/turtlebot3_follow/turtlebot3_follow.egg-info/requires.txt
+[1.395s] writing top-level names to ../build/turtlebot3_follow/turtlebot3_follow.egg-info/top_level.txt
+[1.397s] writing manifest file '../build/turtlebot3_follow/turtlebot3_follow.egg-info/SOURCES.txt'
+[1.428s] reading manifest file '../build/turtlebot3_follow/turtlebot3_follow.egg-info/SOURCES.txt'
+[1.429s] writing manifest file '../build/turtlebot3_follow/turtlebot3_follow.egg-info/SOURCES.txt'
+[1.429s] running build
+[1.429s] running build_py
+[1.429s] creating /root/ws/ROS2Package/build/turtlebot3_follow/build
+[1.429s] creating /root/ws/ROS2Package/build/turtlebot3_follow/build/lib
+[1.429s] creating /root/ws/ROS2Package/build/turtlebot3_follow/build/lib/turtlebot3_follow
+[1.429s] copying turtlebot3_follow/__init__.py -> /root/ws/ROS2Package/build/turtlebot3_follow/build/lib/turtlebot3_follow
+[1.429s] copying turtlebot3_follow/follow.py -> /root/ws/ROS2Package/build/turtlebot3_follow/build/lib/turtlebot3_follow
+[1.430s] running install
+[1.430s] running install_lib
+[1.431s] creating /root/ws/ROS2Package/install/turtlebot3_follow/lib/python3.8/site-packages/turtlebot3_follow
+[1.431s] copying /root/ws/ROS2Package/build/turtlebot3_follow/build/lib/turtlebot3_follow/__init__.py -> /root/ws/ROS2Package/install/turtlebot3_follow/lib/python3.8/site-packages/turtlebot3_follow
+[1.431s] copying /root/ws/ROS2Package/build/turtlebot3_follow/build/lib/turtlebot3_follow/follow.py -> /root/ws/ROS2Package/install/turtlebot3_follow/lib/python3.8/site-packages/turtlebot3_follow
+[1.432s] byte-compiling /root/ws/ROS2Package/install/turtlebot3_follow/lib/python3.8/site-packages/turtlebot3_follow/__init__.py to __init__.cpython-38.pyc
+[1.433s] byte-compiling /root/ws/ROS2Package/install/turtlebot3_follow/lib/python3.8/site-packages/turtlebot3_follow/follow.py to follow.cpython-38.pyc
+[1.433s] running install_data
+[1.433s] creating /root/ws/ROS2Package/install/turtlebot3_follow/share/ament_index
+[1.433s] creating /root/ws/ROS2Package/install/turtlebot3_follow/share/ament_index/resource_index
+[1.433s] creating /root/ws/ROS2Package/install/turtlebot3_follow/share/ament_index/resource_index/packages
+[1.433s] copying resource/turtlebot3_follow -> /root/ws/ROS2Package/install/turtlebot3_follow/share/ament_index/resource_index/packages
+[1.434s] copying package.xml -> /root/ws/ROS2Package/install/turtlebot3_follow/share/turtlebot3_follow
+[1.434s] running install_egg_info
+[1.435s] Copying ../build/turtlebot3_follow/turtlebot3_follow.egg-info to /root/ws/ROS2Package/install/turtlebot3_follow/lib/python3.8/site-packages/turtlebot3_follow-0.0.0-py3.8.egg-info
+[1.435s] running install_scripts
+[1.449s] Installing turtlebot3_follow script to /root/ws/ROS2Package/install/turtlebot3_follow/lib/turtlebot3_follow
+[1.449s] writing list of installed files to '/root/ws/ROS2Package/build/turtlebot3_follow/install.log'
+[1.472s] Invoked command in '/root/ws/ROS2Package/turtlebot3_follow' returned '0': PYTHONPATH=/root/ws/ROS2Package/build/turtlebot3_follow/prefix_override:/root/ws/ROS2Package/install/turtlebot3_follow/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../build/turtlebot3_follow build --build-base /root/ws/ROS2Package/build/turtlebot3_follow/build install --record /root/ws/ROS2Package/build/turtlebot3_follow/install.log --install-scripts $base/lib/turtlebot3_follow --single-version-externally-managed install_data

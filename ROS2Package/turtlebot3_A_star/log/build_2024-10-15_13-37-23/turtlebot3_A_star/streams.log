@@ -1,0 +1,45 @@
+[0.513s] Invoking command in '/root/ws/ROS2Package/turtlebot3_A_star': PYTHONPATH=/root/ws/ROS2Package/turtlebot3_A_star/build/turtlebot3_A_star/prefix_override:/root/ws/ROS2Package/turtlebot3_A_star/install/turtlebot3_A_star/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base build/turtlebot3_A_star build --build-base /root/ws/ROS2Package/turtlebot3_A_star/build/turtlebot3_A_star/build install --record /root/ws/ROS2Package/turtlebot3_A_star/build/turtlebot3_A_star/install.log --single-version-externally-managed install_data
+[0.693s] running egg_info
+[0.693s] creating build/turtlebot3_A_star/turtlebot3_A_star.egg-info
+[0.693s] writing build/turtlebot3_A_star/turtlebot3_A_star.egg-info/PKG-INFO
+[0.694s] writing dependency_links to build/turtlebot3_A_star/turtlebot3_A_star.egg-info/dependency_links.txt
+[0.694s] writing entry points to build/turtlebot3_A_star/turtlebot3_A_star.egg-info/entry_points.txt
+[0.694s] writing requirements to build/turtlebot3_A_star/turtlebot3_A_star.egg-info/requires.txt
+[0.694s] writing top-level names to build/turtlebot3_A_star/turtlebot3_A_star.egg-info/top_level.txt
+[0.695s] writing manifest file 'build/turtlebot3_A_star/turtlebot3_A_star.egg-info/SOURCES.txt'
+[0.721s] reading manifest file 'build/turtlebot3_A_star/turtlebot3_A_star.egg-info/SOURCES.txt'
+[0.722s] writing manifest file 'build/turtlebot3_A_star/turtlebot3_A_star.egg-info/SOURCES.txt'
+[0.722s] running build
+[0.722s] running build_py
+[0.722s] creating /root/ws/ROS2Package/turtlebot3_A_star/build/turtlebot3_A_star/build
+[0.722s] creating /root/ws/ROS2Package/turtlebot3_A_star/build/turtlebot3_A_star/build/lib
+[0.723s] creating /root/ws/ROS2Package/turtlebot3_A_star/build/turtlebot3_A_star/build/lib/turtlebot3_A_star
+[0.723s] copying turtlebot3_A_star/discrete_transform.py -> /root/ws/ROS2Package/turtlebot3_A_star/build/turtlebot3_A_star/build/lib/turtlebot3_A_star
+[0.723s] copying turtlebot3_A_star/node.py -> /root/ws/ROS2Package/turtlebot3_A_star/build/turtlebot3_A_star/build/lib/turtlebot3_A_star
+[0.723s] copying turtlebot3_A_star/A_star_def.py -> /root/ws/ROS2Package/turtlebot3_A_star/build/turtlebot3_A_star/build/lib/turtlebot3_A_star
+[0.723s] copying turtlebot3_A_star/__init__.py -> /root/ws/ROS2Package/turtlebot3_A_star/build/turtlebot3_A_star/build/lib/turtlebot3_A_star
+[0.723s] copying turtlebot3_A_star/A_star_planner.py -> /root/ws/ROS2Package/turtlebot3_A_star/build/turtlebot3_A_star/build/lib/turtlebot3_A_star
+[0.723s] running install
+[0.724s] running install_lib
+[0.725s] creating /root/ws/ROS2Package/turtlebot3_A_star/install/turtlebot3_A_star/lib/python3.8/site-packages/turtlebot3_A_star
+[0.725s] copying /root/ws/ROS2Package/turtlebot3_A_star/build/turtlebot3_A_star/build/lib/turtlebot3_A_star/discrete_transform.py -> /root/ws/ROS2Package/turtlebot3_A_star/install/turtlebot3_A_star/lib/python3.8/site-packages/turtlebot3_A_star
+[0.725s] copying /root/ws/ROS2Package/turtlebot3_A_star/build/turtlebot3_A_star/build/lib/turtlebot3_A_star/node.py -> /root/ws/ROS2Package/turtlebot3_A_star/install/turtlebot3_A_star/lib/python3.8/site-packages/turtlebot3_A_star
+[0.725s] copying /root/ws/ROS2Package/turtlebot3_A_star/build/turtlebot3_A_star/build/lib/turtlebot3_A_star/A_star_def.py -> /root/ws/ROS2Package/turtlebot3_A_star/install/turtlebot3_A_star/lib/python3.8/site-packages/turtlebot3_A_star
+[0.725s] copying /root/ws/ROS2Package/turtlebot3_A_star/build/turtlebot3_A_star/build/lib/turtlebot3_A_star/__init__.py -> /root/ws/ROS2Package/turtlebot3_A_star/install/turtlebot3_A_star/lib/python3.8/site-packages/turtlebot3_A_star
+[0.725s] copying /root/ws/ROS2Package/turtlebot3_A_star/build/turtlebot3_A_star/build/lib/turtlebot3_A_star/A_star_planner.py -> /root/ws/ROS2Package/turtlebot3_A_star/install/turtlebot3_A_star/lib/python3.8/site-packages/turtlebot3_A_star
+[0.725s] byte-compiling /root/ws/ROS2Package/turtlebot3_A_star/install/turtlebot3_A_star/lib/python3.8/site-packages/turtlebot3_A_star/discrete_transform.py to discrete_transform.cpython-38.pyc
+[0.727s] byte-compiling /root/ws/ROS2Package/turtlebot3_A_star/install/turtlebot3_A_star/lib/python3.8/site-packages/turtlebot3_A_star/node.py to node.cpython-38.pyc
+[0.727s] byte-compiling /root/ws/ROS2Package/turtlebot3_A_star/install/turtlebot3_A_star/lib/python3.8/site-packages/turtlebot3_A_star/A_star_def.py to A_star_def.cpython-38.pyc
+[0.729s] byte-compiling /root/ws/ROS2Package/turtlebot3_A_star/install/turtlebot3_A_star/lib/python3.8/site-packages/turtlebot3_A_star/__init__.py to __init__.cpython-38.pyc
+[0.729s] byte-compiling /root/ws/ROS2Package/turtlebot3_A_star/install/turtlebot3_A_star/lib/python3.8/site-packages/turtlebot3_A_star/A_star_planner.py to A_star_planner.cpython-38.pyc
+[0.730s] running install_data
+[0.730s] creating /root/ws/ROS2Package/turtlebot3_A_star/install/turtlebot3_A_star/share/ament_index
+[0.730s] creating /root/ws/ROS2Package/turtlebot3_A_star/install/turtlebot3_A_star/share/ament_index/resource_index
+[0.730s] creating /root/ws/ROS2Package/turtlebot3_A_star/install/turtlebot3_A_star/share/ament_index/resource_index/packages
+[0.730s] copying resource/turtlebot3_A_star -> /root/ws/ROS2Package/turtlebot3_A_star/install/turtlebot3_A_star/share/ament_index/resource_index/packages
+[0.730s] copying package.xml -> /root/ws/ROS2Package/turtlebot3_A_star/install/turtlebot3_A_star/share/turtlebot3_A_star
+[0.730s] running install_egg_info
+[0.731s] Copying build/turtlebot3_A_star/turtlebot3_A_star.egg-info to /root/ws/ROS2Package/turtlebot3_A_star/install/turtlebot3_A_star/lib/python3.8/site-packages/turtlebot3_A_star-0.0.0-py3.8.egg-info
+[0.732s] running install_scripts
+[0.747s] writing list of installed files to '/root/ws/ROS2Package/turtlebot3_A_star/build/turtlebot3_A_star/install.log'
+[0.770s] Invoked command in '/root/ws/ROS2Package/turtlebot3_A_star' returned '0': PYTHONPATH=/root/ws/ROS2Package/turtlebot3_A_star/build/turtlebot3_A_star/prefix_override:/root/ws/ROS2Package/turtlebot3_A_star/install/turtlebot3_A_star/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base build/turtlebot3_A_star build --build-base /root/ws/ROS2Package/turtlebot3_A_star/build/turtlebot3_A_star/build install --record /root/ws/ROS2Package/turtlebot3_A_star/build/turtlebot3_A_star/install.log --single-version-externally-managed install_data

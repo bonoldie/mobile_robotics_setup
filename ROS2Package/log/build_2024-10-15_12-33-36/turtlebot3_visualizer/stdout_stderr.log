@@ -1,0 +1,21 @@
+running develop
+running egg_info
+writing turtlebot3_visualizer.egg-info/PKG-INFO
+writing dependency_links to turtlebot3_visualizer.egg-info/dependency_links.txt
+writing entry points to turtlebot3_visualizer.egg-info/entry_points.txt
+writing requirements to turtlebot3_visualizer.egg-info/requires.txt
+writing top-level names to turtlebot3_visualizer.egg-info/top_level.txt
+reading manifest file 'turtlebot3_visualizer.egg-info/SOURCES.txt'
+writing manifest file 'turtlebot3_visualizer.egg-info/SOURCES.txt'
+running build_ext
+Creating /root/ws/ROS2Package/install/turtlebot3_visualizer/lib/python3.8/site-packages/site.py
+Creating /root/ws/ROS2Package/install/turtlebot3_visualizer/lib/python3.8/site-packages/turtlebot3-visualizer.egg-link (link to .)
+
+Installed /root/ws/ROS2Package/build/turtlebot3_visualizer
+running symlink_data
+symbolically linking /root/ws/ROS2Package/build/turtlebot3_visualizer/resource/turtlebot3_visualizer -> /root/ws/ROS2Package/install/turtlebot3_visualizer/share/ament_index/resource_index/packages
+symbolically linking /root/ws/ROS2Package/build/turtlebot3_visualizer/package.xml -> /root/ws/ROS2Package/install/turtlebot3_visualizer/share/turtlebot3_visualizer
+symbolically linking /root/ws/ROS2Package/build/turtlebot3_visualizer/launch/turtlebot3_visualizer.launch.py -> /root/ws/ROS2Package/install/turtlebot3_visualizer/share/turtlebot3_visualizer/launch
+symbolically linking /root/ws/ROS2Package/build/turtlebot3_visualizer/rviz/NAV2.rviz -> /root/ws/ROS2Package/install/turtlebot3_visualizer/share/turtlebot3_visualizer/rviz
+symbolically linking /root/ws/ROS2Package/build/turtlebot3_visualizer/rviz/SLAM.rviz -> /root/ws/ROS2Package/install/turtlebot3_visualizer/share/turtlebot3_visualizer/rviz
+symbolically linking /root/ws/ROS2Package/build/turtlebot3_visualizer/rviz/AMCL.rviz -> /root/ws/ROS2Package/install/turtlebot3_visualizer/share/turtlebot3_visualizer/rviz

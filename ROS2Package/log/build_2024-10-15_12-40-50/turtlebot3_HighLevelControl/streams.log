@@ -1,0 +1,37 @@
+[1.584s] Invoking command in '/root/ws/ROS2Package/turtlebot3_HighLevelControl': PYTHONPATH=/root/ws/ROS2Package/build/turtlebot3_HighLevelControl/prefix_override:/root/ws/ROS2Package/install/turtlebot3_HighLevelControl/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../build/turtlebot3_HighLevelControl build --build-base /root/ws/ROS2Package/build/turtlebot3_HighLevelControl/build install --record /root/ws/ROS2Package/build/turtlebot3_HighLevelControl/install.log --install-scripts $base/lib/turtlebot3_HighLevelControl --single-version-externally-managed install_data
+[1.852s] running egg_info
+[1.853s] creating ../build/turtlebot3_HighLevelControl/turtlebot3_HighLevelControl.egg-info
+[1.853s] writing ../build/turtlebot3_HighLevelControl/turtlebot3_HighLevelControl.egg-info/PKG-INFO
+[1.853s] writing dependency_links to ../build/turtlebot3_HighLevelControl/turtlebot3_HighLevelControl.egg-info/dependency_links.txt
+[1.853s] writing entry points to ../build/turtlebot3_HighLevelControl/turtlebot3_HighLevelControl.egg-info/entry_points.txt
+[1.854s] writing requirements to ../build/turtlebot3_HighLevelControl/turtlebot3_HighLevelControl.egg-info/requires.txt
+[1.854s] writing top-level names to ../build/turtlebot3_HighLevelControl/turtlebot3_HighLevelControl.egg-info/top_level.txt
+[1.860s] writing manifest file '../build/turtlebot3_HighLevelControl/turtlebot3_HighLevelControl.egg-info/SOURCES.txt'
+[1.907s] reading manifest file '../build/turtlebot3_HighLevelControl/turtlebot3_HighLevelControl.egg-info/SOURCES.txt'
+[1.907s] writing manifest file '../build/turtlebot3_HighLevelControl/turtlebot3_HighLevelControl.egg-info/SOURCES.txt'
+[1.907s] running build
+[1.907s] running build_py
+[1.907s] creating /root/ws/ROS2Package/build/turtlebot3_HighLevelControl/build
+[1.907s] creating /root/ws/ROS2Package/build/turtlebot3_HighLevelControl/build/lib
+[1.907s] creating /root/ws/ROS2Package/build/turtlebot3_HighLevelControl/build/lib/turtlebot3_HighLevelControl
+[1.907s] copying turtlebot3_HighLevelControl/__init__.py -> /root/ws/ROS2Package/build/turtlebot3_HighLevelControl/build/lib/turtlebot3_HighLevelControl
+[1.908s] copying turtlebot3_HighLevelControl/highLevelControl.py -> /root/ws/ROS2Package/build/turtlebot3_HighLevelControl/build/lib/turtlebot3_HighLevelControl
+[1.908s] running install
+[1.908s] running install_lib
+[1.909s] creating /root/ws/ROS2Package/install/turtlebot3_HighLevelControl/lib/python3.8/site-packages/turtlebot3_HighLevelControl
+[1.909s] copying /root/ws/ROS2Package/build/turtlebot3_HighLevelControl/build/lib/turtlebot3_HighLevelControl/__init__.py -> /root/ws/ROS2Package/install/turtlebot3_HighLevelControl/lib/python3.8/site-packages/turtlebot3_HighLevelControl
+[1.909s] copying /root/ws/ROS2Package/build/turtlebot3_HighLevelControl/build/lib/turtlebot3_HighLevelControl/highLevelControl.py -> /root/ws/ROS2Package/install/turtlebot3_HighLevelControl/lib/python3.8/site-packages/turtlebot3_HighLevelControl
+[1.910s] byte-compiling /root/ws/ROS2Package/install/turtlebot3_HighLevelControl/lib/python3.8/site-packages/turtlebot3_HighLevelControl/__init__.py to __init__.cpython-38.pyc
+[1.912s] byte-compiling /root/ws/ROS2Package/install/turtlebot3_HighLevelControl/lib/python3.8/site-packages/turtlebot3_HighLevelControl/highLevelControl.py to highLevelControl.cpython-38.pyc
+[1.913s] running install_data
+[1.913s] creating /root/ws/ROS2Package/install/turtlebot3_HighLevelControl/share/ament_index
+[1.914s] creating /root/ws/ROS2Package/install/turtlebot3_HighLevelControl/share/ament_index/resource_index
+[1.914s] creating /root/ws/ROS2Package/install/turtlebot3_HighLevelControl/share/ament_index/resource_index/packages
+[1.914s] copying resource/turtlebot3_HighLevelControl -> /root/ws/ROS2Package/install/turtlebot3_HighLevelControl/share/ament_index/resource_index/packages
+[1.914s] copying package.xml -> /root/ws/ROS2Package/install/turtlebot3_HighLevelControl/share/turtlebot3_HighLevelControl
+[1.914s] running install_egg_info
+[1.917s] Copying ../build/turtlebot3_HighLevelControl/turtlebot3_HighLevelControl.egg-info to /root/ws/ROS2Package/install/turtlebot3_HighLevelControl/lib/python3.8/site-packages/turtlebot3_HighLevelControl-0.0.0-py3.8.egg-info
+[1.918s] running install_scripts
+[1.945s] Installing turtlebot3_HighLevelControl script to /root/ws/ROS2Package/install/turtlebot3_HighLevelControl/lib/turtlebot3_HighLevelControl
+[1.945s] writing list of installed files to '/root/ws/ROS2Package/build/turtlebot3_HighLevelControl/install.log'
+[1.998s] Invoked command in '/root/ws/ROS2Package/turtlebot3_HighLevelControl' returned '0': PYTHONPATH=/root/ws/ROS2Package/build/turtlebot3_HighLevelControl/prefix_override:/root/ws/ROS2Package/install/turtlebot3_HighLevelControl/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../build/turtlebot3_HighLevelControl build --build-base /root/ws/ROS2Package/build/turtlebot3_HighLevelControl/build install --record /root/ws/ROS2Package/build/turtlebot3_HighLevelControl/install.log --install-scripts $base/lib/turtlebot3_HighLevelControl --single-version-externally-managed install_data
